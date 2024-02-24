@@ -5,8 +5,8 @@ I'm a passionate Java Developer who loves to solve problems and build applicatio
 I have experience working with on-premise cloud environments and have a deep understanding of complete CI/CD pipelines. This knowledge allows me to ensure efficient and reliable deployment of applications. Recently, I've been diving into the world of public cloud with Azure. I'm excited about the scalability and flexibility that cloud platforms like Azure can offer, and I'm eager to continue expanding my skills in this area.
 
 ## 🛠 Skills
-- Languages: Java, JavaScript, SQL
-- Tools/Frameworks: Spring Framework (Boot, MVC, Cloud, Security, Data), Node.js, Express, React.js, JUnit, Mockito, Azure, Jenkins, Docker, Git
+- Languages: Java, JavaScript, Php, SQL
+- Tools/Frameworks: Spring Framework (Boot, MVC, Cloud, Security, Data),Yii2, Node.js,Nest.js, Next.js Express, React.js, JUnit, Mockito, Azure, Jenkins, Docker, Git
 - Databases: PostgreSQL, MongoDB
 
 ## 📫 How to reach me
