@@ -6,7 +6,7 @@ I have experience working with on-premise cloud environments and have a deep und
 
 ## 🛠 Skills
 - Languages: Java, JavaScript, Php, SQL
-- Tools/Frameworks: Spring Framework (Boot, MVC, Cloud, Security, Data),Yii2, Node.js,Nest.js, Next.js Express, React.js, JUnit, Mockito, Azure, Jenkins, Docker, Git
+- Tools/Frameworks: Spring Framework (Boot, MVC, Cloud, Security, Data), Yii2, Node.js, Nest.js, Next.js, Express, React.js, JUnit, Mockito, Azure, Jenkins, Docker, Git
 - Databases: PostgreSQL, MongoDB
 
 ## 📫 How to reach me
